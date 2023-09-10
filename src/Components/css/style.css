@@ -1,0 +1,24 @@
+@media screen and (min-width:450px){
+    .wth-3{
+        width: 400px;
+    }
+    .mtt-10{
+        margin-top: 40px;
+    }
+}
+@media screen and (max-width:380px){
+    .pad-redu{
+        padding: 4px;
+    }
+
+    .img-mt{
+        margin-top: 10px;
+    }
+    
+}
+  /* Custom CSS for navbar brand (title) */
+  .navbar-brand-custom {
+    color: #fff; /* Text color */
+    font-size: 30px; /* Font size */
+    font-weight: 600; /* Font weight */
+  }
